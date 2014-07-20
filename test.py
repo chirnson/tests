@@ -19,7 +19,7 @@ def test_freezing5():
 def test_freezing5():
     assert above_freezing(32) == 1
 
-def test_freezing5():
+def test_freezing6():
     assert above_freezing(32) == 1
 
 if __name__ == '__main__':
