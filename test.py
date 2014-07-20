@@ -34,8 +34,5 @@ def test_freezing9():
 def test_freezing10():
     assert above_freezing(32) == 1
 
-def test_freezing11():
-    assert above_freezing(32) == 0
-
 if __name__ == '__main__':
     nose.runmodule()
